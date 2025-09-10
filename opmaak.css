@@ -2,3 +2,8 @@ body {
   background-color: darkgoldenrod;
 }
 
+p{ 
+  background-color: darkolivegreen;
+  border: black;
+  margin: 10px;
+}
