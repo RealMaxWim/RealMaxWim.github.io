@@ -11,6 +11,16 @@ body {
   width: 50%;
 }
 
+#kleurmodellenuitleg1{
+background-color:rgba(128, 167, 61, 0.684) ;
+border: black;
+color: white;
+margin: 10px;
+padding: 20px;
+width: 50%;
+}
+
+
 #tafeltennisimg{
 float: right;
 }
