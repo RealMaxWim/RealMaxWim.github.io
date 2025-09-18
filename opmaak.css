@@ -34,7 +34,7 @@ li a {
 
 
 li a:hover {
-  background-color: #d08754a4;
+  background-color: rgba(128, 167, 61, 0.684);
   color: white;
 }
 
