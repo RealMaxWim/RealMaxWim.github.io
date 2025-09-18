@@ -40,7 +40,8 @@ li a:hover {
 
 
 #inleidingparagraaf{
-float: inline-end;
+
+margin: 20px;
 
 }
 
