@@ -67,7 +67,12 @@ li a:hover {
 #inleidingparagraaf{
 
 margin: 20px;
-
+background-color: rgba(128, 167, 61, 0.684);
+border: black;
+border-radius: 10px;
+color: white;
+padding: 20px;
+width: 50%;
 }
 
 
