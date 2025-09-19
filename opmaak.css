@@ -4,9 +4,8 @@ body {
 
 #introductieh5{ 
   background-color: rgba(128, 167, 61, 0.684);
-  border: black;
+  border: solid black;
   border-radius: 10px;
-  border-color: black;
   color: white;
   margin: 10px;
   padding: 20px;
