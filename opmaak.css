@@ -82,7 +82,6 @@ margin: 10px;
 }
 
 #RGBimg{
-float: right;
+float: left;
 margin: 5px;
-vertical-align: middle;
 }
