@@ -31,6 +31,17 @@ padding: 20px;
 width: 75%;
 }
 
+#kleurmodeluitleg3{
+background-color: rgba(111, 139, 63, 0.48);
+border: black;
+border-radius: 10px;
+color: white;
+margin: 30px;
+padding: 20px;
+width: 60%;
+float: right;
+}
+
 
 
 #tafeltennisimg{
