@@ -107,6 +107,7 @@ li a:hover {
   background-color: rgba(128, 167, 61, 0.684);
   color: white;
   border-radius: 30px;
+  transition-duration: 1s;
 }
 
 
