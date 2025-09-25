@@ -53,6 +53,19 @@ width: 60%;
 float: right;
 }
 
+
+
+#compressieuitleg1:hover{
+transition-duration: 3s;
+background-color: cadetblue;
+
+}
+
+#compressieuitleg1{
+
+  background-color: blueviolet;
+}
+
 #CMYmodel{
 float: right;
 position: calc(2231);
