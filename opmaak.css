@@ -108,6 +108,12 @@ li a:hover {
   transition-duration: 750ms;
 }
 
+#startpaginamenuselectie :hover{
+background-color: rgba(128, 167, 61, 0.684);
+color: white;
+border-radius: 20px;
+transition-duration: 750ms;
+}
 
 #inleidingparagraaf{
 
