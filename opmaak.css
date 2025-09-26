@@ -64,7 +64,9 @@ background-color: cadetblue;
 #compressieuitleg1{
 background-color: rgba(128, 167, 61, 0.59);
 width: 75%;
+border-radius: 10px;
 border: black;
+color: white;
 }
 
 #CMYmodel{
