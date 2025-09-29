@@ -23,13 +23,13 @@ width: 75%;
 margin: 20px;
 }
 
-#box75right{
+#box60right{
 background-color: rgba(128, 167, 61, 0.684);
 border: black;
 border-radius: 10px;
 color: white;
 padding: 20px;
-width: 75%;
+width: 60%;
 margin: 20px;
 float: right;
 }
