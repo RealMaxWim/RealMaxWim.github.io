@@ -1,4 +1,4 @@
-body {
+body { 
   background-color: rgba(39, 133, 75, 0.29); 
 }
 
@@ -62,8 +62,8 @@ position: calc(2231);
 
 #tafeltennisimg{
 float: right;
-margin: 20px;
-align-items: center;
+margin-right: 75px;
+margin: 30px;
 }
 
 #ASCII-tabelimg{
