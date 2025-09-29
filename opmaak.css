@@ -78,7 +78,7 @@ float: right;
 }
 
 
-ul {
+ul {/*Geeft aan hoe het menu eruit moet zien*/
   list-style-type: none;
   margin: 0;
   padding: 10px;
@@ -88,7 +88,7 @@ ul {
   
 }
 
-li a {
+li a { /*Laat zien hoe de tekst bij het menu eruit ziet, zonder hoveren.*/
   display: block;
   color: black;
   padding: 8px 16px;
@@ -96,7 +96,7 @@ li a {
 }
 
 
-li a:hover {
+li a:hover { /*Laat zien hoe de tekst bij het menu eruit ziet bij het hoveren.*/
   background-color: rgba(128, 167, 61, 0.684);
   color: white;
   border-radius: 30px;
