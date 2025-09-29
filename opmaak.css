@@ -13,6 +13,16 @@ width: 50%;
 margin: 20px;
 }
 
+#box75{
+background-color: rgba(128, 167, 61, 0.684);
+border: black;
+border-radius: 10px;
+color: white;
+padding: 20px;
+width: 75%;
+margin: 20px;
+}
+
 p { 
  font-size: medium;
 }
@@ -59,16 +69,6 @@ width: 60%;
 float: right;
 }
 
-
-#compressieuitleg1{
-background-color: rgba(128, 167, 61, 0.59);
-width: 75%;
-border-radius: 10px;
-border: black;
-color: white;
-margin: 30px;
-padding: 20px;
-}
 
 #CMYmodelimg{
 float: right;
