@@ -2,7 +2,16 @@ body {
   background-color: rgba(39, 133, 75, 0.29); 
 }
 
-#introductieh5{ 
+
+#box{
+background-color: rgba(128, 167, 61, 0.684);
+border: black;
+border-radius: 10px;
+color: white;
+padding: 20px;
+}
+
+p { 
   background-color: rgba(128, 167, 61, 0.684);
   border: black;
   border-radius: 10px;
@@ -10,6 +19,10 @@ body {
   padding: 20px;
   width: 50%;
   font-size: medium;
+}
+
+#inleidingparagraaf{
+width: 50%;
 }
 
 #kleurmodeluitleg1{
@@ -117,17 +130,6 @@ li a:hover {
   transition-duration: 750ms;
 }
 
-
-
-#inleidingparagraaf{
-
-background-color: rgba(128, 167, 61, 0.684);
-border: black;
-border-radius: 10px;
-color: white;
-padding: 20px;
-width: 50%;
-}
 
 
 #visGIF{
