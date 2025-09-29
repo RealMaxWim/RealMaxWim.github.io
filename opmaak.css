@@ -116,3 +116,14 @@ float: left;
 margin: 5px;
 }
 
+#bitmap-vectorimg{
+  float: right;
+  margin-right: 30px;
+  margin: 20px;
+}
+
+#lossyvslossless{
+float: right;
+margin-right: 30px;
+margin: 20px;
+}
