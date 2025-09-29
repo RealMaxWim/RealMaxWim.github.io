@@ -1,16 +1,16 @@
-body { 
-  background-color: rgba(39, 133, 75, 0.29); 
+body { /*Bepaalt de waarden van de achtergrond.*/
+  background-color: rgba(39, 133, 75, 0.29); /*Bepaalt de kleur van het betreffende attribuut.*/
 }
 
 
-#box50{
+#box50{ /*id voor een afbeelding, tekst etc.*/
 background-color: rgba(128, 167, 61, 0.684);
-border: black;
-border-radius: 10px;
-color: white;
-padding: 20px;
-width: 50%;
-margin: 20px;
+border: black; /*Geeft de rand van een box aan.*/
+border-radius: 10px; /*Geeft de ronding van de rand van de box aan.*/
+color: white; /*Kleur voor text in box.*/
+padding: 20px; /*Ruimte tussen text en rand van box.*/
+width: 50%; /*Hoeveer de box met tekst maximaal op het beeldscherm mag uitbreiden. 50% is tot de helft.*/
+margin: 20px; /*Afstand tussen andere objecten.*/
 }
 
 #box75{
@@ -31,11 +31,11 @@ color: white;
 padding: 20px;
 width: 60%;
 margin: 20px;
-float: right;
+float: right; /*plaats object rechts.*/
 }
 
 p { 
- font-size: medium;
+ font-size: medium; /*Tekstgrootte.*/
 }
 
 #game{
@@ -44,7 +44,7 @@ p {
 
 
 footer {
-   position: fixed;
+   position: fixed; /*Vaste plaats voor positie van object*/
    left: 0;
    bottom: 0;
    width: 100%;
@@ -56,7 +56,6 @@ footer {
 
 #CMYmodelimg{
 float: right;
-position: calc(2231);
 }
 
 
@@ -70,15 +69,10 @@ margin: 30px;
 float: right;
 }
 
-#resolutionimg{
-
-
-
-}
 
 
 #invoer-verwerking-uitvoerimg{
-  border-bottom-right-radius: 5%;
+  border-bottom-right-radius: 5%; /*Ronding van een specifieke rand in procenten.*/
   border-top-right-radius: 5%;
   margin-left: 20px;
 }
