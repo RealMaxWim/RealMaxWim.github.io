@@ -3,21 +3,17 @@ body {
 }
 
 
-#box{
+#box50{
 background-color: rgba(128, 167, 61, 0.684);
 border: black;
 border-radius: 10px;
 color: white;
 padding: 20px;
+width: 50%;
 }
 
 p { 
- width: 50%;
  font-size: medium;
-}
-
-#inleidingparagraaf{
-width: 50%;
 }
 
 #kleurmodeluitleg1{
