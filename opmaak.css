@@ -23,55 +23,23 @@ width: 75%;
 margin: 20px;
 }
 
+#box75right{
+background-color: rgba(128, 167, 61, 0.684);
+border: black;
+border-radius: 10px;
+color: white;
+padding: 20px;
+width: 75%;
+margin: 20px;
+float: right;
+}
+
 p { 
  font-size: medium;
 }
 
 #game{
   margin: 20px;
-}
-
-
-#kleurmodeluitleg1{
-background-color:rgba(128, 167, 61, 0.684) ;
-border: black;
-border-radius: 10px;
-color: white;
-margin: 10px;
-padding: 20px;
-width: 75%;
-}
-
-#kleurmodeluitleg2{
-background-color: rgba(128, 167, 61, 0.59);
-border: black;
-border-radius: 10px;
-color: white;
-margin: 30px;
-padding: 20px;
-width: 75%;
-}
-
-#kleurmodeluitleg3{
-background-color: rgba(111, 139, 63, 0.48);
-border: black;
-border-radius: 10px;
-color: white;
-margin: 30px;
-padding: 20px;
-width: 60%;
-float: right;
-}
-
-#kleurmodeluitleg4{
-background-color: rgba(111, 139, 63, 0.48);
-border: black;
-border-radius: 10px;
-color: white;
-margin: 15px;
-padding: 10px;
-width: 60%;
-float: right;
 }
 
 
