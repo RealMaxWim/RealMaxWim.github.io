@@ -63,6 +63,7 @@ position: calc(2231);
 #tafeltennisimg{
 float: right;
 margin: 20px;
+align-items: center;
 }
 
 #ASCII-tabelimg{
