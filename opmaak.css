@@ -27,6 +27,12 @@ p {
  font-size: medium;
 }
 
+#game{
+  margin: 20px;
+  align-content: center;
+}
+
+
 #kleurmodeluitleg1{
 background-color:rgba(128, 167, 61, 0.684) ;
 border: black;
